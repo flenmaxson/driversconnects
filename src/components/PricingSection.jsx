@@ -66,7 +66,7 @@ export default function PricingPackages() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            ProTechnician Pricing
+            Pricing
           </h1>
           <p className="text-xl text-blue-200">
             Choose the perfect plan for your driver management needs
