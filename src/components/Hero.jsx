@@ -52,7 +52,7 @@ function Hero() {
         {/* Feature Cards */}
         <div className="grid md:grid-cols-3 gap-6 mb-16">
           {[
-            { icon: '🤖', title: 'AI-Powered', desc: 'Smart optimization algorithms', color: 'cyan' },
+            { icon: '✅', title: 'Easy To Use', desc: 'Quickly and Easily', color: 'cyan' },
             { icon: '⚡', title: 'Lightning Fast', desc: 'Instant performance boost', color: 'blue' },
             { icon: '🔒', title: 'Secure', desc: 'Enterprise-grade protection', color: 'purple' }
           ].map((feature, i) => (

@@ -7,6 +7,7 @@ import Talk from '@/components/Talk'
 import MainLayout from '@/components/MainLaout'
 import CostumersReview from '@/components/CostumersReview'
 import FAQList from '@/components/FaqList'
+import PricingPackages from '@/components/PricingSection'
 
 export default function Home() {
   return (
@@ -27,6 +28,7 @@ export default function Home() {
 
       {/* Suitable for any computer */}
       <DriverPack/>
+      <PricingPackages/>
 
       {/* Contact */}
       <CostumersReview/>
