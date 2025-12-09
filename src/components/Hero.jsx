@@ -18,9 +18,6 @@ function Hero() {
 
       <div className="relative max-w-7xl mx-auto">
         <div className="text-center space-y-8 mb-16">
-          <div className="inline-block px-6 py-2 bg-cyan-500/10 border border-cyan-500/20 rounded-full text-cyan-400 font-mono text-sm">
-            {'> '} System.optimize() // Auto-pilot enabled
-          </div>
 
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black text-white leading-tight">
             <span className="">Update Your </span>
