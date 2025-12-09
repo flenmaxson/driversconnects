@@ -24,7 +24,7 @@ function CustomersReview() {
                 />
               </svg>
             </div>
-            <div className="text-3xl font-bold text-gray-900 mb-1">2.5M+</div>
+            <div className="text-3xl font-bold text-gray-900 mb-1">2.1K+</div>
             <div className="text-gray-600 text-sm">Downloads & Installations</div>
           </div>
 
@@ -45,7 +45,7 @@ function CustomersReview() {
               </svg>
             </div>
             <div className="text-3xl font-bold text-gray-900 mb-1">4.9/5</div>
-            <div className="text-gray-600 text-sm">Based on 15,000+ reviews</div>
+            <div className="text-gray-600 text-sm">Based on 11,000+ reviews</div>
           </div>
 
           <div className="text-center group">
@@ -64,7 +64,7 @@ function CustomersReview() {
                 />
               </svg>
             </div>
-            <div className="text-3xl font-bold text-gray-900 mb-1">50K+</div>
+            <div className="text-3xl font-bold text-gray-900 mb-1">2.5K+</div>
             <div className="text-gray-600 text-sm">Active Users Worldwide</div>
           </div>
         </div>
@@ -73,44 +73,43 @@ function CustomersReview() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {[
             {
-              name: 'Michael Thompson',
+              name: 'William',
               review:
-                'DriversConnect made keeping my computer updated so much easier. I really like the simple interface.',
+                'Drivers Connect saved me at a time when my computer was hopelessly broken. I had gone through all of the items in Driver Manager, and I was still getting the BSOD for no apparent reason. I installed Drivers Connect, made a 90 second scan, and clicked “Install all” to update the 9 out of date drivers that Microsoft missed. Since then I make a scan several times a week, and Drivers Connect has kept my computer in shape.',
             },
             {
-              name: 'Emily Johnson',
+              name: 'Roger CJ',
               review:
-                'I’ve noticed smoother performance since installing DriversConnect. It helps me stay current with driver updates.',
+                'Drivers Connect is just that: easy to use and worth the not-insignificant annual charge. Plus, it found driver updates for all of my computers - some so old they are still running Windows 7 - that the native PC software, if any, either didnt or couldnt.',
             },
             {
-              name: 'Davisan Kazon',
-              review:
-                'Great experience so far. The software quickly found and updated outdated drivers on my PC.',
+              name: 'Jan K.',
+              review:"I have been struggling for months to update to W11. Constantly getting errors that not al drivers were uptodate without telling which. One run of DE updating 12 drivers which windows said were uptodate and the update to W11 went flawless. So thanks DE!"
             },
             {
-              name: 'Sarah Wilson',
+              name: 'Alanpetrob',
               review:
-                'I appreciate how DriversConnect keeps everything organized. My computer feels more stable now.',
+                'I like the ease of access, simplicity of language (minimal jargon), and overall perfomance. Plus, it saves me a fortune on norty anti-virus sites who constantly send me messages that my "Drivers are out of date" and "causing critical crashes" then offerin g to fix it for a furher amount, even though I have purchased their "Ultimate" AV package.',
             },
             {
-              name: 'James Anderson',
-              review:
-                'Updating drivers manually used to be confusing. DriversConnect handles it automatically and saves me time.',
+              name: 'Stuart Thompson',
+              review: 'Would highly recommend, very easy product to download and use, also staff are very friendly and happy to answer any questions you may have, will definitely be renewing my subscription I didn’t know my machine had 30 out of date drivers at the start and it’s helped me keep over 150 drivers up to date.'
             },
             {
-              name: 'Ethan Davis',
-              review:
-                'I’ve been using DriversConnect for a few weeks and it’s been very reliable',
+              name: 'Erich Doehling',
+              review: 'Drivers Connect is by far the best option I have found for keeping drivers up to date and charging a fair price to do so. I started off using it for my personal computers, then expanded it to my companys business computers as well. They make it extremely simple to use, which was a must-have for my business, as some of my employees are not tech-savvy. Its truly as easy as a click of a button, or you can even set it up to be automated.'
             },
             {
-              name: 'William Harris',
-              review:
-                'The automatic driver updates are convenient. It’s nice to have one tool for all maintenance.',
+              name: 'Therese',
+              review: "Drivers Connect fixed my whole computer. It had been having constant high CPU usage for a while and I couldn't figure out why. I scanned for corrupted files, checked for malware and was on the verge to send it for repair when I thought I'd give it a go to update the drivers (I didn't, to be honest, think it would make any difference because my computer was up-to-date according to Windows Update). And lo and behold, it sorted, and my computer is back to normal CPU usage."
             },
             {
-              name: 'Sophia Clark',
-              review:
-                'DriversConnect has made it easier to keep my system running smoothly without any extra effort.',
+              name: 'EUGENIO',
+              review: "Perfect solution to keep your computer up to date. Best of all, it doesn't run in the background like other software do making your computer resources to run slow monitoringyour every move. I recommend it as anyone's first choice. Kuddos!"
+            },
+            {
+              name: 'Snowdye Fitton',
+              review: "The scan process for updating the drivers was very easy to do. It did update my drivers. But after updating the drivers it appears that i had something else wrong. The customer service was very good to do numerous things to solve my computer issues. They went beyond the drivers concerns to providing other helpful problem solving things. Thanks"
             },
           ].map((item, i) => (
             <div

@@ -7,7 +7,7 @@ const faqs = [
   {
     question: "What is DriversConnect?",
     answer:
-      "DriversConnect is a Windows application that helps users automatically detect, download, and install the latest drivers for their PC. It’s designed to make computer maintenance easier and more reliable.",
+      "DriversConnect is a Windows application that helps to detect, download, and install the latest drivers for their PC. It’s designed to make computer maintenance easier and more reliable.",
   },
   {
     question: "How does DriversConnect help my computer?",
@@ -22,7 +22,7 @@ const faqs = [
   {
     question: "Do I need technical skills to use DriversConnect?",
     answer:
-      "No technical experience is needed. DriversConnect’s step-by-step interface guides you through the update process automatically.",
+      "No technical experience is needed. DriversConnect’s step-by-step interface guides you through the update process easily.",
   },
   {
     question: "Will DriversConnect make my computer faster?",

@@ -27,7 +27,7 @@ export default function Footer() {
         </Link>
               </div>
               <p className="text-gray-400 mb-6 leading-relaxed">
-                DriversConnect delivers seamless PC care automatic driver updates, system optimization, and enhanced security to keep your devices running smoothly.
+                DriversConnect helps you update your Windows drivers quickly and easily. Trusted by over 2.5k users worldwide, it’s designed a smoother, more reliable PC experience.
               </p>
               <div className="flex space-x-4">
                 <a href="#" className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center hover:bg-white/20 transition-colors">

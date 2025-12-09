@@ -18,42 +18,34 @@ function WorkWithDevices() {
   {
     icon: '🌐',
     title: 'Smart Network',
-    items: 'Reliable Ethernet cards, routers, hubs, and communication tools for seamless connectivity.'
   },
   {
     icon: '🖥️',
     title: 'Display & Monitor',
-    items: 'High-quality LCDs, smart screens, and USB displays for clear and vibrant visuals.'
   },
   {
     icon: '🖨️',
     title: 'Printing & Scanning',
-    items: 'Efficient printers, plotters, scanners, and 3D printing solutions for work and creativity.'
   },
   {
     icon: '⌨️',
     title: 'Input & Control',
-    items: 'Keyboards, mice, joysticks, and gaming controllers designed for precision and comfort.'
   },
   {
     icon: '📶',
     title: 'Bluetooth',
-    items: 'Adapters, wireless headsets, earbuds, and smart devices for easy wireless connections.'
   },
   {
     icon: '📡',
     title: 'Wi-Fi & Connectivity',
-    items: 'Boosters, adapters, and mobile broadband tools for stronger, faster wireless performance.'
   },
   {
     icon: '🎥',
     title: 'Cameras & Webcams',
-    items: 'Webcams, IP cameras, and security devices for streaming, monitoring, and clarity.'
   },
   {
     icon: '🎧',
     title: 'Audio & Sound',
-    items: 'Sound cards, microphones, speakers, and headphones for premium sound quality.'
   }
 ]
 
@@ -66,7 +58,7 @@ function WorkWithDevices() {
           <div className="font-semibold text-lg text-gray-800 group-hover:text-brand-600 transition-colors duration-300">
             {title}
           </div>
-          <p className="mt-2 text-gray-600 text-sm leading-relaxed">{items}</p>
+          {/* <p className="mt-2 text-gray-600 text-sm leading-relaxed">{items}</p> */}
         </div>
       ))}
     </div>

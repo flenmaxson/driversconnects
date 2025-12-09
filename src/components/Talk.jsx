@@ -16,9 +16,6 @@ function Talk() {
             Talk to our team today!
           </span>
             </h2>
-            <p className="mt-4 text-gray-700">
-              Our dedicated team is here to assist with any questions or concerns you may have. We’re committed to providing prompt, helpful responses to ensure your complete satisfaction.
-            </p>
             <button
               onClick={openChat}
               className="mt-6 px-8 py-4 inline-block bg-gradient-to-r from-cyan-500 to-blue-600 cursor-pointer text-white font-bold rounded-lg overflow-hidden transition-all hover:shadow-[0_0_30px_rgba(6,182,212,0.5)]"

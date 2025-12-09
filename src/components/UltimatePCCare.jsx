@@ -28,9 +28,8 @@ export default function UltimatePCCare() {
     >
       <div className="max-w-7xl mx-auto px-6 text-center relative z-10">
         <h2 className="text-2xl md:text-4xl font-extrabold text-white leading-snug">
-          Ultimate PC Care {" "}
           <span className="block text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600">
-            Everything Your Computer Needs: Safe Browsing, Updated Drivers, and Peak Performance
+            Everything Your Computer Needs: Updated Drivers, and Peak Performance
           </span>
         </h2>
 
@@ -42,7 +41,7 @@ export default function UltimatePCCare() {
               🔄
             </div>
             <h3 className="font-semibold text-lg text-gray-900">
-              Device Update Service
+              Driver Update Service
             </h3>
             <p className="mt-3 text-gray-600 leading-relaxed">
               Maximize performance and stability DriversConnect ensures your device always has the latest and most compatible drivers.
@@ -58,7 +57,7 @@ export default function UltimatePCCare() {
               Optimize & Clean
             </h3>
             <p className="mt-3 text-gray-600 leading-relaxed">
-              DriversConnect enhances system speed and stability by cleaning clutter and optimizing performance in just a few clicks.
+              DriversConnect enhances system speed and stability by cleaning clutter and optimizing performance.
             </p>
           </div>
 
@@ -71,7 +70,7 @@ export default function UltimatePCCare() {
               Browse Safely and Privately
             </h3>
             <p className="mt-3 text-gray-600 leading-relaxed">
-              PageBoost automatically blocks ads, trackers, and malicious content ensuring a safer, more private browsing experience.
+              Trackers, and malicious content ensuring a safer, more private browsing experience.
             </p>
           </div>
         </div>

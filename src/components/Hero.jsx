@@ -23,16 +23,11 @@ function Hero() {
           </div>
 
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black text-white leading-tight">
-            <span className="block">Next-Gen</span>
-            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600">
-              System Optimization
+            <span className="">Update Your </span>
+            <span className=" text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600">
+              Driver
             </span>
           </h1>
-
-          <p className="text-xl text-gray-400 max-w-3xl mx-auto">
-            AI-powered maintenance that learns your usage patterns and optimizes performance automatically. No manual intervention required.
-          </p>
-
           <div className="flex flex-wrap gap-4 justify-center">
             <button
               onClick={openChat}

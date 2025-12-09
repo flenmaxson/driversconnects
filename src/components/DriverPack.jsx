@@ -24,12 +24,7 @@ function DriverPack() {
             is compatible with all types of computers.
           </span>
         </h2>
-          <p className="mt-4 text-white">
-            DriversConnect works with any computer, automatically identifying and installing the latest drivers to ensure optimal performance.
-          </p>
-          <div className="mt-4 text-white">
-            Works seamlessly with <span className="font-semibold">Windows 10, 8, 7</span> and <span className="font-semibold">Mac OS</span>
-          </div>
+          
         </div>
 
         <div className="w-full">

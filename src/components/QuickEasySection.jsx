@@ -17,12 +17,12 @@ export default function QuickEasySection() {
         {/* === LEFT CONTENT === */}
         <div className="space-y-6">
           <h2 className="text-2xl md:text-4xl font-extrabold text-gray-900 leading-tight">
-            Keep Your Drivers Current{" "}
-            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600">with Just a Few Clicks</span>
+            Fix Your Device and{" "}
+            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600">See Better Performance.</span>
           </h2>
 
           <p className="text-gray-700 text-lg leading-relaxed">
-            DriversConnect automatically scans, downloads, and installs the latest drivers ensuring your system stays compatible and performs at its best.
+            Get driver for most PC manufacturers and devices, keeping them secure and enhancing productivity.
           </p>
 
           <div className="flex flex-wrap gap-4 pt-4">
