@@ -12,122 +12,245 @@ export default function PrivacyPolicyPage() {
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight">
             Privacy Policy
           </h1>
-          <p className="mt-4 text-sky-100 max-w-3xl mx-auto text-base sm:text-lg md:text-xl leading-relaxed">
-            Our policies are designed to protect your rights and ensure a trustworthy, respectful experience.
-          </p>
-          <p className="mt-4 text-sky-200 max-w-3xl mx-auto text-base sm:text-lg md:text-xl leading-relaxed">
-            DriversConnect (a wholly owned subsidiary of DriversConnect) is committed to ensuring your privacy at all times. This Privacy Policy explains how we collect, use, and share information when you use our websites, products, or services.
-          </p>
         </div>
       </header>
 
       {/* PAGE CONTENT */}
-      <section className="max-w-5xl mx-auto px-6 py-12">
-        <article className="prose prose-slate max-w-none lg:prose-lg xl:prose-xl">
-          {/* Main Section */}
-          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-6">Privacy Policy Overview</h2>
-          <p className="mb-4 leading-relaxed">
-            This Privacy Policy governs the collection of information by DriversConnect across most of its websites and services, including offline product support. It does not apply to DriversConnect services that display their own distinct privacy statements. Please read carefully to understand how we gather, safeguard, and use your information.
-          </p>
-          <p className="mb-4 leading-relaxed">
-            Contact us if you have any questions or concerns regarding our policy.
-          </p>
+      <section className="w-full py-10 px-4 md:px-8 lg:px-16 text-gray-800">
+  <div className="max-w-6xl mx-auto space-y-6">
+    <h1 className="text-3xl font-semibold">Privacy Policy</h1>
 
-          {/* Section: Data Collection */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">What Data We Gather and How We Gather It</h3>
-          <p className="mb-4 leading-relaxed">
-            When you visit our websites, use our products, or contact us via email or other means, we may collect certain information to facilitate interaction and provide support.
-          </p>
+    <p>
+      At BDE Cloud, your privacy matters. Our policies are designed to respect your
+      rights, protect your information, and ensure a secure and transparent
+      experience across all our services.
+    </p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Use of Cookies</h4>
-          <p className="mb-4 leading-relaxed">
-            Our site uses cookies, small text files stored on your device, to enhance website functionality and user experience. Google Analytics may analyze cookie data to identify your location and present content in your preferred language. By using our site, you consent to our use of cookies, but you can disable cookies through your browser settings.
-          </p>
-          <p className="mb-4 leading-relaxed">
-            Cookies may also store registration and shopping basket data, preferred language, and currency settings, helping personalize your online experience.
-          </p>
+    <p>
+      BDE Cloud, a wholly owned subsidiary operating under the BDE Cloud brand, is
+      committed to safeguarding your personal information. This Privacy Policy
+      explains how we collect, use, store, and disclose data when you access our
+      websites, purchase our products, or use our services.
+    </p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Use of Third-Party Ad Networks and Social Networks</h4>
-          <p className="mb-4 leading-relaxed">
-            Some ads may be served by third-party networks that place cookies to deliver targeted ads. DriversConnect does not control these cookies. Sharing content on social media may also involve cookies controlled by the respective platforms.
-          </p>
+    <h2 className="text-2xl font-semibold">Scope of This Privacy Policy</h2>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Placing Orders</h4>
-          <p className="mb-4 leading-relaxed">
-            Paid products are processed by third-party service providers. Billing and payment details (including credit card information) are collected by the provider. Information may be shared with DriversConnect for order verification, subscription updates, and promotions.
-          </p>
+    <p>
+      This Privacy Policy applies to information collected by BDE Cloud through its
+      websites, software, customer support services, subscriptions, and offline
+      technical assistance. It does not apply to services that display separate or
+      independent privacy notices. We encourage you to review this policy carefully
+      to understand how your data is handled.
+    </p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">News Subscriptions</h4>
-          <p className="mb-4 leading-relaxed">
-            Subscribers provide email addresses to receive news, updates, and offers. You can manage your subscription or unsubscribe anytime using provided links.
-          </p>
+    <p>
+      If you have any questions or concerns regarding this Privacy Policy, please
+      contact us through our official website.
+    </p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">DriversConnect Forum</h4>
-          <p className="mb-4 leading-relaxed">
-            Registration may require username, password, email, location, language, and device information.
-          </p>
+    <h2 className="text-2xl font-semibold">Information We Collect</h2>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Customer Testimonials</h4>
-          <p className="mb-4 leading-relaxed">
-            With permission, we publish customer testimonials including names, endorsements, and images. Requests to edit or remove testimonials are promptly addressed.
-          </p>
+    <p>
+      We collect information to provide efficient services, deliver technical
+      support, improve user experience, and comply with legal obligations.
+      Information may be collected when you visit our website, place an order,
+      register an account, subscribe to communications, or contact our support team.
+    </p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Contact Us and Technical Support Service</h4>
-          <p className="mb-4 leading-relaxed">
-            When you contact us for support, we may collect necessary information such as name, email, device details, and technical logs to resolve issues. This information is only used to provide support and is not shared externally without consent.
-          </p>
+    <h3 className="text-xl font-semibold">Personal Information</h3>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Non-Personal Information</h4>
-          <p className="mb-4 leading-relaxed">
-            Non-personal information may include operating system, device ID, IP address, browser type, language, and usage patterns. This helps us understand usage trends and improve our products and services.
-          </p>
+    <p>
+      Personal data may include your name, email address, contact details, account
+      credentials, device information, payment-related references, and communication
+      history.
+    </p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Purpose of Collecting Device Hardware and Software Information</h4>
-          <p className="mb-4 leading-relaxed">
-            DriversConnect collects hardware/software inventory to provide driver downloads and device recommendations. This data helps match optimal updates for systems and refine our intelligence for better recommendations.
-          </p>
+    <h3 className="text-xl font-semibold">Non-Personal Information</h3>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">How We Use the Information We Collect</h4>
-          <p className="mb-4 leading-relaxed">
-            We use collected data to operate and improve our services, enhance customer support, personalize content and ads, conduct research, and communicate important messages, including newsletters, billing reminders, surveys, or service updates.
-          </p>
+    <p>
+      We may also collect non-identifiable data such as IP address, browser type,
+      operating system, device identifiers, language preferences, and usage
+      statistics. This information helps us analyze trends and enhance service
+      performance.
+    </p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">How We Protect the Information We Collect</h4>
-          <p className="mb-4 leading-relaxed">
-            DriversConnect implements various security protocols including restricted access, encrypted transmissions (SSL), and responsible password management. Users are encouraged to maintain their account security and log out when sharing devices.
-          </p>
+    <h2 className="text-2xl font-semibold">Use of Cookies and Tracking Technologies</h2>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Controlling Spam</h4>
-          <p className="mb-4 leading-relaxed">
-            We prohibit the use of our services for unsolicited email (spam) and do not share subscriber lists. Tools like Inbox Protector help minimize spam.
-          </p>
+    <p>
+      BDE Cloud uses cookies and similar technologies to improve website
+      functionality, analyze traffic, and personalize content. Cookies help store
+      preferences such as language selection, session information, and shopping
+      activity.
+    </p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Children’s Policy</h4>
-          <p className="mb-4 leading-relaxed">
-            Services are intended for individuals 16+. We do not knowingly collect data from children under 16. If discovered, it is promptly deleted unless legally required.
-          </p>
+    <p>
+      Third-party analytics tools, including Google Analytics, may process cookie
+      data to understand user behavior and regional preferences. You can disable
+      cookies through your browser settings; however, doing so may limit certain
+      website features.
+    </p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">How We Share Your Information</h4>
-          <p className="mb-4 leading-relaxed">
-            Personal data is not shared externally except with third-party service providers fulfilling specific tasks, or with government/law enforcement when legally required or for safety purposes.
-          </p>
+    <h2 className="text-2xl font-semibold">
+      Third-Party Advertising and Social Media Integration
+    </h2>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Updating or Removing Your Personal Data</h4>
-          <p className="mb-4 leading-relaxed">
-            You may request updates, corrections, or deletion of personal data, forum accounts, subscriptions, or support tickets. We will respond promptly, but some data may remain in backups to comply with legal obligations.
-          </p>
+    <p>
+      Advertisements displayed on our website may be delivered by third-party
+      advertising networks that use their own cookies and tracking technologies.
+      BDE Cloud does not control or manage these cookies.
+    </p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Changes to This Privacy Policy</h4>
-          <p className="mb-4 leading-relaxed">
-            We may update this Privacy Policy as our services evolve. Check regularly for updates. The "Last Updated" date reflects the latest revision.
-          </p>
+    <p>
+      Interactions with social media platforms—such as sharing content—may also
+      involve cookies or data collection governed by the respective platform’s
+      privacy policies.
+    </p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Contact Information</h4>
-          <p className="mb-4 leading-relaxed">
-            For inquiries or concerns about this Privacy Policy or how DriversConnect handles personal information, please contact us through our website. We will investigate and respond promptly to any reported issues.
-          </p>
-        </article>
-      </section>
+    <h2 className="text-2xl font-semibold">Orders, Payments, and Billing Information</h2>
+
+    <p>
+      All paid transactions are processed securely by authorized third-party payment
+      providers. BDE Cloud does not store your credit card or banking information.
+      Limited transaction details may be shared with us for order validation,
+      subscription management, customer communication, and promotional offers.
+    </p>
+
+    <h2 className="text-2xl font-semibold">Email Communications and Subscriptions</h2>
+
+    <p>
+      When you subscribe to our newsletters or updates, we collect your email
+      address to send service announcements, product updates, and promotional
+      communications. You may manage your preferences or unsubscribe at any time
+      using the link included in our emails.
+    </p>
+
+    <h2 className="text-2xl font-semibold">Community Forums and User Accounts</h2>
+
+    <p>
+      Participation in BDE Cloud forums or community features may require account
+      registration. Information collected may include username, email address,
+      location, language preferences, and device details to support account
+      functionality and moderation.
+    </p>
+
+    <h2 className="text-2xl font-semibold">Customer Testimonials</h2>
+
+    <p>
+      With your explicit consent, we may display customer testimonials that include
+      names, feedback, or images. You may request modifications or removal of
+      testimonials at any time, and we will act promptly upon verification.
+    </p>
+
+    <h2 className="text-2xl font-semibold">
+      Technical Support and Customer Assistance
+    </h2>
+
+    <p>
+      When you contact BDE Cloud for technical support, we may collect relevant
+      information such as contact details, system configuration, error logs, and
+      diagnostic data. This information is strictly used to identify, diagnose, and
+      resolve technical issues and is not shared with external parties without
+      authorization.
+    </p>
+
+    <h2 className="text-2xl font-semibold">
+      Collection of Hardware and Software Data
+    </h2>
+
+    <p>
+      To provide accurate driver updates and system recommendations, BDE Cloud may
+      collect limited hardware and software inventory data. This allows us to match
+      compatible solutions and continuously improve our recommendation engine.
+    </p>
+
+    <h2 className="text-2xl font-semibold">How We Use Your Information</h2>
+
+    <p>We use collected information to:</p>
+
+    <ul className="list-disc pl-6 space-y-1">
+      <li>Deliver and maintain our services</li>
+      <li>Provide technical and customer support</li>
+      <li>Process orders and subscriptions</li>
+      <li>Improve website performance and product quality</li>
+      <li>Personalize content and advertising</li>
+      <li>Conduct research and analytics</li>
+      <li>
+        Send important communications such as service updates, billing notices,
+        surveys, and newsletters
+      </li>
+    </ul>
+
+    <h2 className="text-2xl font-semibold">Data Security Measures</h2>
+
+    <p>
+      BDE Cloud employs industry-standard security practices to protect your
+      information, including encrypted data transmission (SSL), controlled system
+      access, and secure authentication methods. Users are encouraged to safeguard
+      their account credentials and log out after using shared devices.
+    </p>
+
+    <h2 className="text-2xl font-semibold">Anti-Spam Commitment</h2>
+
+    <p>
+      We strictly prohibit the use of our services for sending unsolicited
+      communications. Subscriber information is never sold or shared for spam
+      purposes. We implement tools and safeguards to reduce unwanted or abusive
+      communications.
+    </p>
+
+    <h2 className="text-2xl font-semibold">Children’s Privacy</h2>
+
+    <p>
+      BDE Cloud services are intended for individuals aged 16 and above. We do not
+      knowingly collect personal data from children under the age of 16. If such
+      information is identified, it will be deleted promptly unless retention is
+      required by law.
+    </p>
+
+    <h2 className="text-2xl font-semibold">Information Sharing and Disclosure</h2>
+
+    <p>We do not sell or rent personal data. Information may be shared only with:</p>
+
+    <ul className="list-disc pl-6 space-y-1">
+      <li>Trusted third-party service providers performing specific operational functions</li>
+      <li>Legal or regulatory authorities when required by law</li>
+      <li>
+        Law enforcement agencies for fraud prevention, security, or public safety
+      </li>
+    </ul>
+
+    <p>All such sharing is limited to the minimum necessary.</p>
+
+    <h2 className="text-2xl font-semibold">
+      Managing, Updating, or Deleting Your Data
+    </h2>
+
+    <p>
+      You may request access to, correction of, or deletion of your personal data,
+      including account information, subscriptions, forum profiles, or support
+      records. While we strive to honor all requests promptly, some data may be
+      retained in secure backups or archives to meet legal or compliance obligations.
+    </p>
+
+    <h2 className="text-2xl font-semibold">Changes to This Privacy Policy</h2>
+
+    <p>
+      BDE Cloud reserves the right to update this Privacy Policy as our services,
+      technologies, or legal requirements change. Any updates will be reflected on
+      this page, along with the revised effective date. We recommend reviewing this
+      policy periodically.
+    </p>
+
+    <h2 className="text-2xl font-semibold">Contact Information</h2>
+
+    <p>
+      If you have questions, concerns, or requests related to this Privacy Policy or
+      our data practices, please contact BDE Cloud through our official website. Our
+      team will review and respond to all inquiries in a timely manner.
+    </p>
+  </div>
+</section>
+
     </main>
     </MainLayout>
   );

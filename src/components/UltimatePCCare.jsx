@@ -44,7 +44,7 @@ export default function UltimatePCCare() {
               Driver Update Service
             </h3>
             <p className="mt-3 text-gray-600 leading-relaxed">
-              Maximize performance and stability DriversConnect ensures your device always has the latest and most compatible drivers.
+              Maximize performance and stability BDE Cloud ensures your device always has the latest and most compatible drivers.
             </p>
           </div>
 
@@ -57,7 +57,7 @@ export default function UltimatePCCare() {
               Optimize & Clean
             </h3>
             <p className="mt-3 text-gray-600 leading-relaxed">
-              DriversConnect enhances system speed and stability by cleaning clutter and optimizing performance.
+              BDE Cloud enhances system speed and stability by cleaning clutter and optimizing performance.
             </p>
           </div>
 

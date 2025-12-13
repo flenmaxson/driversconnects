@@ -6,7 +6,13 @@ export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
-  const navItems = ["Home", "Products", "Support", "Solution"];
+
+  const navItems = [
+    { name: "Home", href: "/" },
+    { name: "Products", href: "#products" },
+    { name: "Support", href: "#support" },
+    { name: "Solution", href: "#solution" },
+  ]
 
   // Handle scroll effect
   useEffect(() => {
@@ -28,26 +34,20 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-3 group">
-          <div className="relative">
-            <div className="absolute inset-0 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-lg blur-sm opacity-75 group-hover:opacity-100 transition-opacity"></div>
-            <div className="relative bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-bold text-xl px-3 py-1.5 rounded-lg shadow-lg">
-              DC
-            </div>
-          </div>
-          <span className="font-bold text-xl text-white tracking-tight">
-            DriversConnect
-          </span>
+          <img 
+            className="h-8 w-20 md:h-10 md:w-20 object-contain"
+          src="/logo.png" alt="" />
         </Link>
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center gap-1">
-          {navItems.map((item) => (
+          {navItems.map((item,i) => (
             <Link
-              key={item}
-              href="#"
+              key={i}
+              href={item.href}
               className="relative px-4 py-2 text-gray-300 font-medium hover:text-white transition-colors group"
             >
-              {item}
+              {item.name}
               <span className="absolute left-1/2 -translate-x-1/2 bottom-0 w-0 group-hover:w-3/4 h-0.5 bg-gradient-to-r from-cyan-500 to-blue-600 transition-all duration-300 rounded-full"></span>
             </Link>
           ))}
@@ -100,8 +100,8 @@ export default function Header() {
           <nav className="flex flex-col gap-1">
             {navItems.map((item, index) => (
               <Link
-                key={item}
-                href="#"
+                key={index}
+                href={item.href}
                 onClick={() => setMenuOpen(false)}
                 className="px-4 py-3 text-gray-300 font-medium hover:text-white hover:bg-gray-800/50 rounded-lg transition-all"
                 style={{
@@ -111,7 +111,7 @@ export default function Header() {
                   opacity: 0,
                 }}
               >
-                {item}
+                {item.name}
               </Link>
             ))}
             <Link

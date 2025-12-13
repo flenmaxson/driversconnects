@@ -7,145 +7,294 @@ export default function EulaPage() {
   return (
     <MainLayout>
       <main className="bg-gray-50 min-h-screen text-gray-900">
-      <Script
-        id="tawk-to"
-        strategy="afterInteractive"
-        dangerouslySetInnerHTML={{
-          __html: `
-            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-            (function(){
-              var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-              s1.async=true;
-              s1.src='https://embed.tawk.to/68e4b9cd615cd1194e6d045f/1j6unbirp';
-              s1.charset='UTF-8';
-              s1.setAttribute('crossorigin','*');
-              s0.parentNode.insertBefore(s1,s0);
-            })();
-          `,
-        }}
-      />
       {/* HERO */}
       <header className="bg-gradient-to-b from-sky-800 to-sky-700 text-white pb-16 pt-28 px-6">
         <div className="max-w-5xl mx-auto text-center">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight">
             End User License Agreement
           </h1>
-          <p className="mt-4 text-sky-100 max-w-3xl mx-auto text-base sm:text-lg md:text-xl leading-relaxed">
-            This agreement outlines your rights and responsibilities when using DriversConnect software. Please read carefully to ensure proper use.
-          </p>
-          <p className="mt-4 text-sky-200 max-w-3xl mx-auto text-base sm:text-lg md:text-xl leading-relaxed">
-            By using our software, you acknowledge and accept these terms, which are designed to protect both your interests and those of DriversConnect LLC.
-          </p>
         </div>
       </header>
 
       {/* PAGE CONTENT */}
-      <section className="max-w-5xl mx-auto px-6 py-12">
-        <article className="prose prose-slate max-w-none lg:prose-lg xl:prose-xl">
-          {/* Main Heading */}
-          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-6">End User License Agreement</h2>
+      <section className="w-full py-10 px-4 md:px-8 lg:px-16 text-gray-800">
+  <div className="max-w-6xl mx-auto space-y-6">
+    <h1 className="text-3xl font-semibold">
+      End User License Agreement (EULA)
+    </h1>
 
-          <p className="mb-4 leading-relaxed">
-            Upon proceeding, a system scan will start automatically. You may continue other tasks while the scan runs, but it cannot be interrupted once initiated.
-          </p>
+    <p>
+      This End User License Agreement (“Agreement”) explains your rights and
+      obligations when installing or using BDE Cloud software. Please review it
+      carefully before proceeding.
+    </p>
 
-          <p className="mb-4 leading-relaxed">
-            Before installing or accessing the DriversConnect software, including any related files, media, or documentation (collectively referred to as the “Software”), you must accept this agreement. By clicking “Accept,” installing, or using the Software, you agree to be legally bound by these terms. This agreement constitutes the full understanding between you and DriversConnect LLC and supersedes any prior communications regarding the Software. If you do not agree, do not install or use the Software.
-          </p>
+    <p>
+      By installing, accessing, or using the software, you confirm that you
+      understand and agree to be bound by these terms. These conditions are
+      intended to protect both you and BDE Cloud.
+    </p>
 
-          {/* Section 1 */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">Section 1. Ownership of Intellectual Property</h3>
-          <p className="mb-4 leading-relaxed">
-            The Software is protected by copyright, trademarks, and other intellectual property laws. All rights, title, and interest in the Software are owned exclusively by DriversConnect LLC, located at 14 West Second Street, Suite 108, Upland, CA 91786. Third-party content included or accessible through the Software remains the property of the respective owner. This agreement does not grant you rights to such third-party content. All rights not expressly granted are reserved by DriversConnect. The Software is licensed, not sold.
-          </p>
+    <h2 className="text-2xl font-semibold">Acceptance of Terms</h2>
 
-          {/* Section 2 */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">Section 2. License Terms and Restrictions</h3>
-          <p className="mb-4 leading-relaxed">
-            Subject to compliance with this agreement, DriversConnect grants you a limited, non-transferable, non-exclusive license to install and use the Software on a single device. You may use the Software for personal or internal business purposes only. A single backup copy may be made for archival purposes and may only be used when the original is unavailable. You may not remove or alter copyright notices, share the Software, sublicense it, rent, or lease it. Reverse engineering, decompiling, or disassembling is prohibited except where explicitly allowed by law. Updates or supplementary components provided by DriversConnect are also subject to this agreement.
-          </p>
+    <p>
+      Before installing or accessing the BDE Cloud software, including all
+      associated files, updates, media, and documentation (collectively, the
+      “Software”), you must accept this Agreement.
+    </p>
 
-          {/* Section 3 */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">Section 3. Limited Warranty</h3>
-          <p className="mb-4 leading-relaxed">
-            DriversConnect guarantees that the Software will operate substantially as described in the accompanying documentation for thirty (30) days after installation (“Warranty Period”), provided the issue is reported within this timeframe. This warranty does not cover misuse, accidents, or unauthorized modifications. Remedies include repair, replacement, or refund of the purchase price, at DriversConnect’s discretion.
-          </p>
+    <p>
+      By clicking “Accept,” installing, or using the Software, you enter into a
+      legally binding contract with BDE Cloud. This Agreement represents the
+      complete and exclusive understanding between you and BDE Cloud regarding
+      the Software and replaces any prior agreements or communications.
+    </p>
 
-          {/* Section 4 */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">Section 4. Disclaimer of Additional Warranties</h3>
-          <p className="mb-4 leading-relaxed">
-            The Software is provided “as is” and “as available.” Except for the limited warranty above, DriversConnect disclaims all other warranties, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement. DriversConnect does not guarantee uninterrupted or error-free operation. Users assume all risks associated with performance and quality of the Software.
-          </p>
+    <p>
+      If you do not agree to these terms, do not install, access, or use the
+      Software.
+    </p>
 
-          {/* Section 5 */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">Section 5. Limitation of Damages</h3>
-          <p className="mb-4 leading-relaxed">
-            To the extent permitted by law, DriversConnect is not liable for indirect, incidental, consequential, or punitive damages arising from your use of the Software, including lost profits or data. Some jurisdictions do not allow exclusion of such damages, so limitations may not apply in all cases.
-          </p>
+    <p>
+      <strong>Notice:</strong> Once initiated, a system scan may begin
+      automatically. You may continue using your computer during the scan, but
+      the process cannot be paused or interrupted.
+    </p>
 
-          {/* Section 6 */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">Section 6. Maximum Liability</h3>
-          <p className="mb-4 leading-relaxed">
-            DriversConnect’s total liability for any claim related to the Software will not exceed the amount you paid for the Software. This limitation applies regardless of legal theory, whether in contract, tort, or otherwise.
-          </p>
+    <h2 className="text-2xl font-semibold">1. Intellectual Property Rights</h2>
 
-          {/* Section 7 */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">Section 7. Export Compliance</h3>
-          <p className="mb-4 leading-relaxed">
-            You must comply with all U.S. export laws. You agree not to export or re-export the Software to prohibited countries, persons, or entities. You represent that you are not restricted from receiving the Software under these laws.
-          </p>
+    <p>
+      The Software is protected by applicable copyright, trademark, and
+      intellectual property laws. All ownership rights, including title and
+      interest, remain exclusively with BDE Cloud, located at 15 West Second
+      Street, Suite 105, Upland, California 91786, USA.
+    </p>
 
-          {/* Section 8 */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">Section 8. Taxes</h3>
-          <p className="mb-4 leading-relaxed">
-            You are responsible for any applicable taxes related to your acquisition or use of the Software, excluding taxes based on DriversConnect’s income.
-          </p>
+    <p>
+      Any third-party components or content made available through the Software
+      remain the property of their respective owners. This Agreement does not
+      grant you ownership or usage rights to such third-party materials beyond
+      what is permitted by law.
+    </p>
 
-          {/* Section 9 */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">Section 9. Government End Users</h3>
-          <p className="mb-4 leading-relaxed">
-            If acquired by the U.S. Government, the Software is provided with “Restricted Rights” as defined under applicable statutes and regulations. Use, reproduction, or disclosure is subject to government contract provisions.
-          </p>
+    <p>
+      The Software is licensed, not sold. All rights not expressly granted are
+      reserved by BDE Cloud.
+    </p>
 
-          {/* Section 10 */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">Section 10. Termination</h3>
-          <p className="mb-4 leading-relaxed">
-            DriversConnect may terminate this agreement immediately if you fail to comply with any term. Upon termination, you must delete all copies of the Software and cease use.
-          </p>
+    <h2 className="text-2xl font-semibold">
+      2. License Grant and Usage Restrictions
+    </h2>
 
-          {/* Section 11 */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">Section 11. Governing Law</h3>
-          <p className="mb-4 leading-relaxed">
-            For U.S. users, this agreement is governed by California law. For non-U.S. users, Hong Kong law applies. If any provision is invalid, the remaining terms remain in effect. Amendments must be in writing and signed by DriversConnect.
-          </p>
+    <p>
+      Subject to your compliance with this Agreement, BDE Cloud grants you a
+      limited, revocable, non-exclusive, non-transferable license to install and
+      use the Software on one device for personal or internal business use.
+    </p>
 
-          {/* Section 12 */}
-          <h3 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">Section 12. Dispute Resolution</h3>
-          <p className="mb-4 leading-relaxed">
-            Most issues can be resolved through DriversConnect support. If unresolved, disputes may proceed to informal notice, mediation, or arbitration. Terms apply to all related parties, including affiliates.
-          </p>
+    <p>You may:</p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Claim Notification</h4>
-          <p className="mb-4 leading-relaxed">
-            Send written notice to DriversConnect including your details and the Software in question: <a href="mailto:support@driversconnect.live" className="text-sky-700 underline">support@driversconnect.live</a>. The purpose is to attempt informal resolution.
-          </p>
+    <ul className="list-disc pl-6 space-y-1">
+      <li>Install and run one copy of the Software on a single device</li>
+      <li>Create one backup copy solely for archival purposes</li>
+    </ul>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Mediation</h4>
-          <p className="mb-4 leading-relaxed">
-            Mediation is voluntary and non-binding. For U.S. users, mediation can be conducted via JAMS or AAA. For international users, contact DriversConnect.
-          </p>
+    <p>You may not:</p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Arbitration</h4>
-          <p className="mb-4 leading-relaxed">
-            U.S. users may opt for binding arbitration rather than court action. Arbitration is individual, confidential, and final, subject to FAA rules.
-          </p>
+    <ul className="list-disc pl-6 space-y-1">
+      <li>Share, sell, rent, lease, sublicense, or distribute the Software</li>
+      <li>Remove or alter copyright or proprietary notices</li>
+      <li>
+        Reverse engineer, decompile, or disassemble the Software, except where
+        explicitly permitted by law
+      </li>
+    </ul>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Opting Out</h4>
-          <p className="mb-4 leading-relaxed">
-            You may reject arbitration by emailing DriversConnect within 30 days of Software acquisition: <a href="mailto:support@driversconnect.live" className="text-sky-700 underline">support@driversconnect.live</a>. Include your name, date, and license info. Opt-out does not affect other rights.
-          </p>
-        </article>
-      </section>
+    <p>
+      All updates, enhancements, or additional components provided by BDE Cloud
+      are governed by this Agreement unless stated otherwise.
+    </p>
+
+    <h2 className="text-2xl font-semibold">3. Limited Warranty</h2>
+
+    <p>
+      BDE Cloud warrants that the Software will perform substantially in
+      accordance with its documentation for thirty (30) days from the date of
+      installation (the “Warranty Period”), provided any defects are reported
+      within this period.
+    </p>
+
+    <p>
+      This warranty does not apply to issues resulting from misuse, accidents,
+      unauthorized modifications, or external causes. If a valid warranty claim
+      is confirmed, BDE Cloud may, at its discretion:
+    </p>
+
+    <ul className="list-disc pl-6 space-y-1">
+      <li>Repair the Software</li>
+      <li>Replace the Software</li>
+      <li>Refund the purchase price</li>
+    </ul>
+
+    <h2 className="text-2xl font-semibold">4. Disclaimer of Warranties</h2>
+
+    <p>
+      Except for the limited warranty expressly stated above, the Software is
+      provided “as is” and “as available.”
+    </p>
+
+    <p>
+      BDE Cloud expressly disclaims all other warranties, whether express,
+      implied, or statutory, including but not limited to implied warranties of
+      merchantability, fitness for a particular purpose, and non-infringement.
+    </p>
+
+    <p>
+      BDE Cloud does not guarantee that the Software will operate without
+      interruptions, errors, or security vulnerabilities. You assume all risks
+      related to the use and performance of the Software.
+    </p>
+
+    <h2 className="text-2xl font-semibold">5. Limitation of Damages</h2>
+
+    <p>
+      To the fullest extent permitted by law, BDE Cloud shall not be liable for
+      any indirect, incidental, consequential, special, or punitive damages,
+      including loss of profits, business interruption, or data loss, arising
+      out of or related to your use of the Software.
+    </p>
+
+    <p>
+      Some jurisdictions do not allow certain limitations, so parts of this
+      section may not apply to you.
+    </p>
+
+    <h2 className="text-2xl font-semibold">6. Limitation of Liability</h2>
+
+    <p>
+      BDE Cloud’s total cumulative liability for any claim arising under this
+      Agreement shall not exceed the amount you paid for the Software.
+    </p>
+
+    <p>
+      This limitation applies regardless of the legal theory involved, including
+      contract, negligence, strict liability, or otherwise.
+    </p>
+
+    <h2 className="text-2xl font-semibold">7. Export Regulations</h2>
+
+    <p>
+      You agree to comply with all applicable U.S. export laws and regulations.
+      You may not export, re-export, or transfer the Software to any restricted
+      country, individual, or entity.
+    </p>
+
+    <p>
+      You represent that you are not prohibited from receiving the Software
+      under applicable export control laws.
+    </p>
+
+    <h2 className="text-2xl font-semibold">8. Taxes</h2>
+
+    <p>
+      You are responsible for all taxes, duties, or fees related to your
+      purchase or use of the Software, excluding taxes imposed on BDE Cloud’s
+      income.
+    </p>
+
+    <h2 className="text-2xl font-semibold">9. U.S. Government End Users</h2>
+
+    <p>
+      If the Software is acquired by or on behalf of the U.S. Government, it is
+      provided with Restricted Rights as defined under applicable federal laws
+      and regulations. Use, duplication, or disclosure is subject to those
+      restrictions.
+    </p>
+
+    <h2 className="text-2xl font-semibold">10. Termination</h2>
+
+    <p>
+      This Agreement remains effective until terminated. BDE Cloud may terminate
+      it immediately if you violate any provision.
+    </p>
+
+    <p>
+      Upon termination, you must discontinue use of the Software and permanently
+      delete all copies from your devices.
+    </p>
+
+    <h2 className="text-2xl font-semibold">11. Governing Law</h2>
+
+    <p>
+      For users located in the United States, this Agreement is governed by the
+      laws of the State of California, excluding conflict-of-law principles.
+    </p>
+
+    <p>
+      For users outside the United States, the laws of Hong Kong shall apply.
+    </p>
+
+    <p>
+      If any provision is found invalid or unenforceable, the remaining
+      provisions will remain in full force. Any amendments must be in writing
+      and authorized by BDE Cloud.
+    </p>
+
+    <h2 className="text-2xl font-semibold">12. Dispute Resolution</h2>
+
+    <p>
+      Most concerns can be resolved by contacting BDE Cloud Support. If a
+      dispute cannot be resolved informally, the following process applies.
+    </p>
+
+    <h3 className="text-xl font-semibold">Claim Notice</h3>
+
+    <p>
+      Before initiating formal proceedings, you must provide written notice to
+      BDE Cloud describing the issue, including your contact details and the
+      Software involved. Notices should be sent to:
+      <br />
+      support@bdecloud.live
+    </p>
+
+    <h3 className="text-xl font-semibold">Mediation</h3>
+
+    <p>Mediation is voluntary and non-binding.</p>
+
+    <ul className="list-disc pl-6 space-y-1">
+      <li>
+        U.S. users may request mediation through JAMS or the American Arbitration
+        Association (AAA)
+      </li>
+      <li>
+        International users should contact BDE Cloud for applicable mediation
+        options
+      </li>
+    </ul>
+
+    <h3 className="text-xl font-semibold">Arbitration</h3>
+
+    <p>
+      U.S. users may elect to resolve disputes through binding individual
+      arbitration instead of court proceedings. Arbitration will be
+      confidential, conducted on an individual basis, and governed by the
+      Federal Arbitration Act (FAA).
+    </p>
+
+    <h3 className="text-xl font-semibold">
+      Right to Opt Out of Arbitration
+    </h3>
+
+    <p>
+      You may opt out of arbitration within 30 days of acquiring the Software by
+      sending an email to support@bdecloud.live
+      . Your message must include your name, purchase date, and license
+      information. Opting out will not affect any other rights under this
+      Agreement.
+    </p>
+  </div>
+</section>
+
     </main>
     </MainLayout>
   );

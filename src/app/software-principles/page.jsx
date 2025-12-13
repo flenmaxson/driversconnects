@@ -12,69 +12,152 @@ export default function SoftwarePrinciplesPage() {
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight">
             Software Principles
           </h1>
-          <p className="mt-4 text-sky-100 max-w-3xl mx-auto text-base sm:text-lg md:text-xl leading-relaxed">
-            Our software policies are designed to protect users’ rights and ensure a safe, reliable, and respectful experience.
-          </p>
-          <p className="mt-2 text-sky-200 max-w-3xl mx-auto text-base sm:text-lg md:text-xl leading-relaxed">
-            Effective Date: 01/12/2021
-          </p>
         </div>
       </header>
 
       {/* PAGE CONTENT */}
-      <section className="max-w-5xl mx-auto px-6 py-12">
-        <article className="prose prose-slate max-w-none lg:prose-lg xl:prose-xl">
+      <section className="w-full py-10 px-4 md:px-8 lg:px-16 text-gray-800">
+  <div className="max-w-6xl mx-auto space-y-6">
+    <h1 className="text-3xl font-semibold">Software Principles</h1>
 
-          <p className="mb-4 leading-relaxed">
-            Developing reliable software starts with prioritizing the end-user experience. For over seven years, DriversConnect has been focused on delivering complete PC driver solutions. Our mission is to place the user at the center of every interaction, ensuring smooth installation, safe usage, and ongoing support. From helping first-time users download drivers to providing a transparent refund policy and top-notch customer assistance, we aim to keep PCs running efficiently and safely.
-          </p>
+    <p>
+      Our software principles are built to safeguard user rights and deliver a
+      secure, dependable, and respectful software experience.
+    </p>
 
-          <p className="mb-4 leading-relaxed">
-            DriversConnect offers fast, secure, and straightforward access to the latest Windows drivers. Users who register fully with DriversConnect gain complete access to our software, automatic updates, and proactive driver monitoring for plug-and-play devices.
-          </p>
+    <p>
+      <strong>Effective Date:</strong> December 10, 2023
+    </p>
 
-          <p className="mb-6 leading-relaxed">
-            Here is a breakdown of our core software principles. For any questions, contact our support team at <a href="mailto:support@driversconnect.live" className="text-sky-700 underline">support@driversconnect.live</a>.
-          </p>
+    <h2 className="text-2xl font-semibold">Our Commitment to Users</h2>
 
-          {/* Section 1: Easy Uninstallation */}
-          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mt-8 mb-4">Effortless Uninstallation</h2>
-          <p className="mb-4 leading-relaxed">
-            DriversConnect ensures that uninstalling the software is straightforward and stress-free. Users can remove it safely without affecting other system functions. Options are available through the Windows Start Menu or Control Panel, and the process is completely free. Step-by-step uninstallation instructions are provided online to guide users.
-          </p>
+    <p>
+      Creating dependable software begins with understanding and prioritizing the
+      people who use it. For more than seven years, BDE Cloud has been dedicated to
+      providing comprehensive PC driver solutions designed to simplify system
+      maintenance and enhance performance.
+    </p>
 
-          {/* Section 2: Transparent Software Behavior */}
-          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mt-8 mb-4">Transparent Software Operations</h2>
-          <p className="mb-4 leading-relaxed">
-            Our software is designed to clearly communicate its functions. DriversConnect scans for outdated or missing drivers and provides actionable steps to resolve issues efficiently.
-          </p>
-          <ul className="list-disc pl-6 space-y-2 mb-4">
-            <li>DriversConnect never installs third-party applications without consent.</li>
-            <li>System settings remain unchanged unless explicitly approved by the user.</li>
-            <li>Driver scans focus only on actual, relevant issues to prevent unnecessary confusion.</li>
-            <li>The software’s operations are strictly limited to driver maintenance and system optimization.</li>
-            <li>Full-license customers receive a complimentary walkthrough for their first driver installation guided by our support team, accessible via a dedicated phone line during checkout.</li>
-          </ul>
+    <p>
+      Our goal is to ensure a seamless journey for every user—from the initial
+      driver download to ongoing system monitoring, customer support, and
+      transparent service policies. Whether you are installing drivers for the
+      first time or managing long-term system updates, BDE Cloud is committed to
+      keeping your computer stable, secure, and up to date.
+    </p>
 
-          {/* Section 3: Data Privacy */}
-          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mt-8 mb-4">Data Collection and Privacy</h2>
-          <p className="mb-4 leading-relaxed">
-            DriversConnect does not collect any personally identifiable information from your computer. Only hardware and software details are gathered to determine required driver updates accurately.
-          </p>
-          <p className="mb-4 leading-relaxed">
-            <strong>Why we gather device data:</strong> By collecting hardware and software inventory information, DriversConnect ensures our driver recommendations are precise. This data allows our system to continuously refine and standardize updates for all supported devices.
-          </p>
+    <h2 className="text-2xl font-semibold">Reliable Access to Driver Solutions</h2>
 
-          {/* Section 4: Partnerships and Transparency */}
-          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mt-8 mb-4">Transparent Partnerships</h2>
-          <p className="mb-4 leading-relaxed">
-            DriversConnect is committed to transparency not only with our users but also with our partners. We build long-lasting relationships with organizations that prioritize user experience and uphold high-quality standards.
-          </p>
-          <p className="mb-4 leading-relaxed">
-            Our app has received certifications from reputable entities, such as AppEsteem, confirming compliance with stringent consumer protection standards in the software monetization industry.
-          </p>
-        </article>
-      </section>
+    <p>
+      BDE Cloud delivers fast, secure, and user-friendly access to the latest
+      Windows driver updates. Fully registered users receive uninterrupted access
+      to all software features, including automated updates, intelligent driver
+      detection, and real-time monitoring for connected plug-and-play devices.
+    </p>
+
+    <h2 className="text-2xl font-semibold">Core Software Principles</h2>
+
+    <p>
+      Below are the foundational principles that guide the development and
+      operation of BDE Cloud software. If you need additional information, our
+      support team is available at support@bdecloud.live
+      {"\n"}.
+    </p>
+
+    <h3 className="text-xl font-semibold">Simple and Complete Uninstallation</h3>
+
+    <p>
+      We believe users should always remain in control of their systems. BDE Cloud
+      software can be removed easily without disrupting other system functions.
+    </p>
+
+    <ul className="list-disc pl-6 space-y-1">
+      <li>
+        Uninstallation can be completed through the Windows Start Menu or Control
+        Panel
+      </li>
+      <li>No fees or restrictions apply during removal</li>
+      <li>
+        Clear, step-by-step uninstall instructions are available online to assist
+        users
+      </li>
+    </ul>
+
+    <h3 className="text-xl font-semibold">Clear and Honest Software Behavior</h3>
+
+    <p>
+      Transparency is central to how our software operates. BDE Cloud clearly
+      explains every action it performs and why it is necessary.
+    </p>
+
+    <ul className="list-disc pl-6 space-y-1">
+      <li>
+        The software scans your system solely to identify missing, outdated, or
+        incompatible drivers
+      </li>
+      <li>
+        No third-party software is installed without explicit user approval
+      </li>
+      <li>
+        System settings are never modified unless the user authorizes the change
+      </li>
+      <li>
+        Scan results highlight only genuine driver-related issues to avoid
+        misleading alerts
+      </li>
+      <li>
+        Software functionality is limited strictly to driver maintenance and
+        system optimization
+      </li>
+    </ul>
+
+    <p>
+      Customers with a full license also receive a complimentary guided walkthrough
+      for their first driver installation, supported by our dedicated assistance
+      line available during checkout.
+    </p>
+
+    <h3 className="text-xl font-semibold">
+      Responsible Data Collection and Privacy
+    </h3>
+
+    <p>
+      Protecting user privacy is a core priority. BDE Cloud does not collect
+      personal or identifiable user data from your device.
+    </p>
+
+    <p>
+      Only essential hardware and software configuration details are collected to
+      determine compatible and necessary driver updates.
+    </p>
+
+    <p>
+      <strong>Purpose of device data collection:</strong>
+      <br />
+      Hardware and software inventory information allows BDE Cloud to provide
+      accurate driver recommendations and improve update reliability across all
+      supported systems. This process helps standardize updates and maintain
+      consistent performance without compromising user privacy.
+    </p>
+
+    <h3 className="text-xl font-semibold">
+      Ethical Partnerships and Industry Compliance
+    </h3>
+
+    <p>
+      BDE Cloud values transparency and accountability in all partnerships. We
+      collaborate only with organizations that share our commitment to user
+      protection, quality assurance, and ethical software practices.
+    </p>
+
+    <p>
+      Our software has earned recognition and certification from trusted industry
+      organizations, including AppEsteem, demonstrating compliance with strict
+      consumer protection and software monetization standards.
+    </p>
+  </div>
+</section>
+
     </main>
     </MainLayout>
   );

@@ -19,15 +19,15 @@ export default function Footer() {
                 
                 <Link href="/" className="flex items-center gap-2">
           <div className="relative bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-bold text-xl px-3 py-1.5 rounded-lg shadow-lg">
-              DC
+              BDE
             </div>
           <span className="font-semibold text-lg text-white tracking-tight">
-            DriversConnect
+            BDE Cloud
           </span>
         </Link>
               </div>
               <p className="text-gray-400 mb-6 leading-relaxed">
-                DriversConnect helps you update your Windows drivers quickly and easily. Trusted by over 2.5k users worldwide, it’s designed a smoother, more reliable PC experience.
+                BDE Cloud helps you update your Windows drivers quickly and easily. Trusted by over 2.5k users worldwide, it’s designed a smoother, more reliable PC experience.
               </p>
               <div className="flex space-x-4">
                 <a href="#" className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center hover:bg-white/20 transition-colors">
@@ -140,7 +140,7 @@ export default function Footer() {
                 Support
               </h3>
               <p className='text-white'>
-                support@driversconnect.live
+                support@bdecloud.live
               </p>
             </div>
           </div>
