@@ -18,12 +18,9 @@ export default function Footer() {
               <div className="flex items-center mb-6">
                 
                 <Link href="/" className="flex items-center gap-2">
-          <div className="relative bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-bold text-xl px-3 py-1.5 rounded-lg shadow-lg">
-              BDE
-            </div>
-          <span className="font-semibold text-lg text-white tracking-tight">
-            BDE Cloud
-          </span>
+                <img 
+            className="h-12 w-20 md:h-14 md:w-20 object-contain"
+          src="/logo.png" alt="logo" />
         </Link>
               </div>
               <p className="text-gray-400 mb-6 leading-relaxed">
@@ -149,7 +146,7 @@ export default function Footer() {
           <div className="border-t border-white/10 pt-4">
             <div className="flex flex-col md:flex-row justify-center items-center">
               <p className="text-gray-400 md:mb-0 text-center">
-                Copyright © 2025, All Right Reserved. Drivers Connect
+                Copyright © 2025, All Right Reserved. BDE Cloud
               </p>
               
             </div>
