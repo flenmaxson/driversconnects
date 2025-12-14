@@ -24,29 +24,27 @@ export default function EulaPage() {
     </h1>
 
     <p>
-      This End User License Agreement (“Agreement”) explains your rights and
-      obligations when installing or using BDE Cloud software. Please review it
-      carefully before proceeding.
+          This End User License Agreement (“Agreement”) is a legal agreement between you (“User”, “You”) and Billionaire Dream Estate Private Limited (“Company”, “We”, “Us”, “Our”) governing your use of the BDECloud software (“Software”).
     </p>
 
     <p>
       By installing, accessing, or using the software, you confirm that you
       understand and agree to be bound by these terms. These conditions are
-      intended to protect both you and BDE Cloud.
+      intended to protect both you and BDECloud.
     </p>
 
     <h2 className="text-2xl font-semibold">Acceptance of Terms</h2>
 
     <p>
-      Before installing or accessing the BDE Cloud software, including all
+      Before installing or accessing the BDECloud software, including all
       associated files, updates, media, and documentation (collectively, the
       “Software”), you must accept this Agreement.
     </p>
 
     <p>
       By clicking “Accept,” installing, or using the Software, you enter into a
-      legally binding contract with BDE Cloud. This Agreement represents the
-      complete and exclusive understanding between you and BDE Cloud regarding
+      legally binding contract with BDECloud. This Agreement represents the
+      complete and exclusive understanding between you and BDECloud regarding
       the Software and replaces any prior agreements or communications.
     </p>
 
@@ -66,8 +64,7 @@ export default function EulaPage() {
     <p>
       The Software is protected by applicable copyright, trademark, and
       intellectual property laws. All ownership rights, including title and
-      interest, remain exclusively with BDE Cloud, located at 15 West Second
-      Street, Suite 105, Upland, California 91786, USA.
+      interest, remain exclusively with BDECloud, located at No, 186, Arathi Building, Bangalore, 562125-India.
     </p>
 
     <p>
@@ -79,7 +76,7 @@ export default function EulaPage() {
 
     <p>
       The Software is licensed, not sold. All rights not expressly granted are
-      reserved by BDE Cloud.
+      reserved by BDECloud.
     </p>
 
     <h2 className="text-2xl font-semibold">
@@ -87,7 +84,7 @@ export default function EulaPage() {
     </h2>
 
     <p>
-      Subject to your compliance with this Agreement, BDE Cloud grants you a
+      Subject to your compliance with this Agreement, BDECloud grants you a
       limited, revocable, non-exclusive, non-transferable license to install and
       use the Software on one device for personal or internal business use.
     </p>
@@ -111,14 +108,14 @@ export default function EulaPage() {
     </ul>
 
     <p>
-      All updates, enhancements, or additional components provided by BDE Cloud
+      All updates, enhancements, or additional components provided by BDECloud
       are governed by this Agreement unless stated otherwise.
     </p>
 
     <h2 className="text-2xl font-semibold">3. Limited Warranty</h2>
 
     <p>
-      BDE Cloud warrants that the Software will perform substantially in
+      BDECloud warrants that the Software will perform substantially in
       accordance with its documentation for thirty (30) days from the date of
       installation (the “Warranty Period”), provided any defects are reported
       within this period.
@@ -127,7 +124,7 @@ export default function EulaPage() {
     <p>
       This warranty does not apply to issues resulting from misuse, accidents,
       unauthorized modifications, or external causes. If a valid warranty claim
-      is confirmed, BDE Cloud may, at its discretion:
+      is confirmed, BDECloud may, at its discretion:
     </p>
 
     <ul className="list-disc pl-6 space-y-1">
@@ -144,13 +141,13 @@ export default function EulaPage() {
     </p>
 
     <p>
-      BDE Cloud expressly disclaims all other warranties, whether express,
+      BDECloud expressly disclaims all other warranties, whether express,
       implied, or statutory, including but not limited to implied warranties of
       merchantability, fitness for a particular purpose, and non-infringement.
     </p>
 
     <p>
-      BDE Cloud does not guarantee that the Software will operate without
+      BDECloud does not guarantee that the Software will operate without
       interruptions, errors, or security vulnerabilities. You assume all risks
       related to the use and performance of the Software.
     </p>
@@ -158,7 +155,7 @@ export default function EulaPage() {
     <h2 className="text-2xl font-semibold">5. Limitation of Damages</h2>
 
     <p>
-      To the fullest extent permitted by law, BDE Cloud shall not be liable for
+      To the fullest extent permitted by law, BDECloud shall not be liable for
       any indirect, incidental, consequential, special, or punitive damages,
       including loss of profits, business interruption, or data loss, arising
       out of or related to your use of the Software.
@@ -172,7 +169,7 @@ export default function EulaPage() {
     <h2 className="text-2xl font-semibold">6. Limitation of Liability</h2>
 
     <p>
-      BDE Cloud’s total cumulative liability for any claim arising under this
+      BDECloud’s total cumulative liability for any claim arising under this
       Agreement shall not exceed the amount you paid for the Software.
     </p>
 
@@ -198,7 +195,7 @@ export default function EulaPage() {
 
     <p>
       You are responsible for all taxes, duties, or fees related to your
-      purchase or use of the Software, excluding taxes imposed on BDE Cloud’s
+      purchase or use of the Software, excluding taxes imposed on BDECloud’s
       income.
     </p>
 
@@ -214,7 +211,7 @@ export default function EulaPage() {
     <h2 className="text-2xl font-semibold">10. Termination</h2>
 
     <p>
-      This Agreement remains effective until terminated. BDE Cloud may terminate
+      This Agreement remains effective until terminated. BDECloud may terminate
       it immediately if you violate any provision.
     </p>
 
@@ -237,13 +234,13 @@ export default function EulaPage() {
     <p>
       If any provision is found invalid or unenforceable, the remaining
       provisions will remain in full force. Any amendments must be in writing
-      and authorized by BDE Cloud.
+      and authorized by BDECloud.
     </p>
 
     <h2 className="text-2xl font-semibold">12. Dispute Resolution</h2>
 
     <p>
-      Most concerns can be resolved by contacting BDE Cloud Support. If a
+      Most concerns can be resolved by contacting BDECloud Support. If a
       dispute cannot be resolved informally, the following process applies.
     </p>
 
@@ -251,7 +248,7 @@ export default function EulaPage() {
 
     <p>
       Before initiating formal proceedings, you must provide written notice to
-      BDE Cloud describing the issue, including your contact details and the
+      BDECloud describing the issue, including your contact details and the
       Software involved. Notices should be sent to:
       <br />
       support@bdecloud.live
@@ -267,7 +264,7 @@ export default function EulaPage() {
         Association (AAA)
       </li>
       <li>
-        International users should contact BDE Cloud for applicable mediation
+        International users should contact BDECloud for applicable mediation
         options
       </li>
     </ul>

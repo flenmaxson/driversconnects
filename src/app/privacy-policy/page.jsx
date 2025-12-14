@@ -21,13 +21,11 @@ export default function PrivacyPolicyPage() {
     <h1 className="text-3xl font-semibold">Privacy Policy</h1>
 
     <p>
-      At BDE Cloud, your privacy matters. Our policies are designed to respect your
-      rights, protect your information, and ensure a secure and transparent
-      experience across all our services.
+      At BDECloud (“Website”, “Software”, “Service”), your privacy is important to us. This Privacy Policy explains how Billionaire Dream Estate Private Limited (“Company”, “we”, “us”, “our”) collects, uses, stores, and protects your information when you use BDECloud.
     </p>
 
     <p>
-      BDE Cloud, a wholly owned subsidiary operating under the BDE Cloud brand, is
+      BDECloud, a wholly owned subsidiary operating under the BDECloud brand, is
       committed to safeguarding your personal information. This Privacy Policy
       explains how we collect, use, store, and disclose data when you access our
       websites, purchase our products, or use our services.
@@ -36,7 +34,7 @@ export default function PrivacyPolicyPage() {
     <h2 className="text-2xl font-semibold">Scope of This Privacy Policy</h2>
 
     <p>
-      This Privacy Policy applies to information collected by BDE Cloud through its
+      This Privacy Policy applies to information collected by BDECloud through its
       websites, software, customer support services, subscriptions, and offline
       technical assistance. It does not apply to services that display separate or
       independent privacy notices. We encourage you to review this policy carefully
@@ -77,7 +75,7 @@ export default function PrivacyPolicyPage() {
     <h2 className="text-2xl font-semibold">Use of Cookies and Tracking Technologies</h2>
 
     <p>
-      BDE Cloud uses cookies and similar technologies to improve website
+      BDECloud uses cookies and similar technologies to improve website
       functionality, analyze traffic, and personalize content. Cookies help store
       preferences such as language selection, session information, and shopping
       activity.
@@ -97,7 +95,7 @@ export default function PrivacyPolicyPage() {
     <p>
       Advertisements displayed on our website may be delivered by third-party
       advertising networks that use their own cookies and tracking technologies.
-      BDE Cloud does not control or manage these cookies.
+      BDECloud does not control or manage these cookies.
     </p>
 
     <p>
@@ -110,7 +108,7 @@ export default function PrivacyPolicyPage() {
 
     <p>
       All paid transactions are processed securely by authorized third-party payment
-      providers. BDE Cloud does not store your credit card or banking information.
+      providers. BDECloud does not store your credit card or banking information.
       Limited transaction details may be shared with us for order validation,
       subscription management, customer communication, and promotional offers.
     </p>
@@ -127,7 +125,7 @@ export default function PrivacyPolicyPage() {
     <h2 className="text-2xl font-semibold">Community Forums and User Accounts</h2>
 
     <p>
-      Participation in BDE Cloud forums or community features may require account
+      Participation in BDECloud forums or community features may require account
       registration. Information collected may include username, email address,
       location, language preferences, and device details to support account
       functionality and moderation.
@@ -146,7 +144,7 @@ export default function PrivacyPolicyPage() {
     </h2>
 
     <p>
-      When you contact BDE Cloud for technical support, we may collect relevant
+      When you contact BDECloud for technical support, we may collect relevant
       information such as contact details, system configuration, error logs, and
       diagnostic data. This information is strictly used to identify, diagnose, and
       resolve technical issues and is not shared with external parties without
@@ -158,7 +156,7 @@ export default function PrivacyPolicyPage() {
     </h2>
 
     <p>
-      To provide accurate driver updates and system recommendations, BDE Cloud may
+      To provide accurate driver updates and system recommendations, BDECloud may
       collect limited hardware and software inventory data. This allows us to match
       compatible solutions and continuously improve our recommendation engine.
     </p>
@@ -183,7 +181,7 @@ export default function PrivacyPolicyPage() {
     <h2 className="text-2xl font-semibold">Data Security Measures</h2>
 
     <p>
-      BDE Cloud employs industry-standard security practices to protect your
+      BDECloud employs industry-standard security practices to protect your
       information, including encrypted data transmission (SSL), controlled system
       access, and secure authentication methods. Users are encouraged to safeguard
       their account credentials and log out after using shared devices.
@@ -201,7 +199,7 @@ export default function PrivacyPolicyPage() {
     <h2 className="text-2xl font-semibold">Children’s Privacy</h2>
 
     <p>
-      BDE Cloud services are intended for individuals aged 16 and above. We do not
+      BDECloud services are intended for individuals aged 16 and above. We do not
       knowingly collect personal data from children under the age of 16. If such
       information is identified, it will be deleted promptly unless retention is
       required by law.
@@ -235,7 +233,7 @@ export default function PrivacyPolicyPage() {
     <h2 className="text-2xl font-semibold">Changes to This Privacy Policy</h2>
 
     <p>
-      BDE Cloud reserves the right to update this Privacy Policy as our services,
+      BDECloud reserves the right to update this Privacy Policy as our services,
       technologies, or legal requirements change. Any updates will be reflected on
       this page, along with the revised effective date. We recommend reviewing this
       policy periodically.
@@ -245,7 +243,7 @@ export default function PrivacyPolicyPage() {
 
     <p>
       If you have questions, concerns, or requests related to this Privacy Policy or
-      our data practices, please contact BDE Cloud through our official website. Our
+      our data practices, please contact BDECloud through our official website. Our
       team will review and respond to all inquiries in a timely manner.
     </p>
   </div>

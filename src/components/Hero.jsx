@@ -17,12 +17,12 @@ function Hero() {
       <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-purple-500/30 rounded-full blur-[128px]"></div>
 
       <div className="relative max-w-7xl mx-auto">
-        <div className="text-center space-y-8 mb-16">
+        <div className="text-center space-y-8 my-20">
 
-          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black text-white leading-tight">
-            <span className="">Update Your </span>
-            <span className=" text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600">
-              Driver
+          <h1 className="text-4xl sm:text-5xl lg:text-7xl font-black text-white leading-tight">
+            <span className="">Update or Roll Back Drivers </span>
+            <span className=" text-5xl text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600">
+              Quickly and Safely
             </span>
           </h1>
           <div className="flex flex-wrap gap-4 justify-center">
