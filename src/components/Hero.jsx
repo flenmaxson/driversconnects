@@ -73,7 +73,7 @@ function Hero() {
             {/* Stats */}
             <div className="flex flex-wrap gap-8 justify-center lg:justify-start pt-8 border-t border-gray-800">
               {[
-                { value: '50K+', label: 'Active Users' },
+                { value: '2.5K+', label: 'Active Users' },
                 { value: '99.9%', label: 'Uptime' },
                 { value: '4.9/5', label: 'User Rating' }
               ].map((stat, i) => (
@@ -105,7 +105,7 @@ function Hero() {
                 <div className="flex items-center gap-3">
                   <div className="w-12 h-12 bg-gradient-to-br from-cyan-500 to-blue-600 rounded-xl flex items-center justify-center text-2xl">✓</div>
                   <div>
-                    <div className="text-white font-bold">Auto Updates</div>
+                    <div className="text-white font-bold">Easy Updates</div>
                     <div className="text-gray-400 text-sm">Always current</div>
                   </div>
                 </div>

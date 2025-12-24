@@ -172,7 +172,7 @@ export default function Contact() {
             <div className="relative h-full bg-slate-800/50 backdrop-blur-xl border border-slate-700/50 rounded-3xl overflow-hidden">
               {/* Map iframe */}
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.0867767839343!2d-122.41941492346757!3d37.77492977176292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085809c6c8f4459%3A0xb10ed6d9b5050fa5!2sTwitter%20HQ!5e0!3m2!1sen!2sus!4v1701234567890!5m2!1sen!2sus"
+                src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d15548.176117455963!2d77.5703756428193!3d13.032868200071148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s164%2C%20Sanjaynagar%20Bengaluru%2C%20560094%20India!5e0!3m2!1sen!2sin!4v1766598596004!5m2!1sen!2sin"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -187,14 +187,6 @@ export default function Contact() {
                 <div className="flex items-start gap-4">
                   <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-pink-600 rounded-xl flex items-center justify-center flex-shrink-0">
                     <MapPin className="w-6 h-6 text-white" />
-                  </div>
-                  <div>
-                    <h4 className="text-lg font-bold text-white mb-1">Our Office</h4>
-                    <p className="text-gray-400 text-sm leading-relaxed">
-                      123 Tech Street<br />
-                      San Francisco, CA 94102<br />
-                      United States
-                    </p>
                   </div>
                 </div>
               </div>
