@@ -75,12 +75,12 @@ function CustomersReview() {
             {
               name: 'William',
               review:
-                'BDE Cloud saved me at a time when my computer was hopelessly broken. I had gone through all of the items in Driver Manager, and I was still getting the BSOD for no apparent reason. I installed BDE Cloud, made a 90 second scan, and clicked “Install all” to update the 9 out of date drivers that Microsoft missed. Since then I make a scan several times a week, and BDE Cloud has kept my computer in shape.',
+                'Drivers Connect saved me at a time when my computer was hopelessly broken. I had gone through all of the items in Driver Manager, and I was still getting the BSOD for no apparent reason. I installed Drivers Connect, made a 90 second scan, and clicked “Install all” to update the 9 out of date drivers that Microsoft missed. Since then I make a scan several times a week, and Drivers Connect has kept my computer in shape.',
             },
             {
               name: 'Roger CJ',
               review:
-                'BDE Cloud is just that: easy to use and worth the not-insignificant annual charge. Plus, it found driver updates for all of my computers - some so old they are still running Windows 7 - that the native PC software, if any, either didnt or couldnt.',
+                'Drivers Connect is just that: easy to use and worth the not-insignificant annual charge. Plus, it found driver updates for all of my computers - some so old they are still running Windows 7 - that the native PC software, if any, either didnt or couldnt.',
             },
             {
               name: 'Jan K.',
@@ -97,11 +97,11 @@ function CustomersReview() {
             },
             {
               name: 'Erich Doehling',
-              review: 'BDE Cloud is by far the best option I have found for keeping drivers up to date and charging a fair price to do so. I started off using it for my personal computers, then expanded it to my companys business computers as well. They make it extremely simple to use, which was a must-have for my business, as some of my employees are not tech-savvy. Its truly as easy as a click of a button, or you can even set it up to be automated.'
+              review: 'Drivers Connect is by far the best option I have found for keeping drivers up to date and charging a fair price to do so. I started off using it for my personal computers, then expanded it to my companys business computers as well. They make it extremely simple to use, which was a must-have for my business, as some of my employees are not tech-savvy. Its truly as easy as a click of a button, or you can even set it up to be automated.'
             },
             {
               name: 'Therese',
-              review: "BDE Cloud fixed my whole computer. It had been having constant high CPU usage for a while and I couldn't figure out why. I scanned for corrupted files, checked for malware and was on the verge to send it for repair when I thought I'd give it a go to update the drivers (I didn't, to be honest, think it would make any difference because my computer was up-to-date according to Windows Update). And lo and behold, it sorted, and my computer is back to normal CPU usage."
+              review: "Drivers Connect fixed my whole computer. It had been having constant high CPU usage for a while and I couldn't figure out why. I scanned for corrupted files, checked for malware and was on the verge to send it for repair when I thought I'd give it a go to update the drivers (I didn't, to be honest, think it would make any difference because my computer was up-to-date according to Windows Update). And lo and behold, it sorted, and my computer is back to normal CPU usage."
             },
             {
               name: 'EUGENIO',

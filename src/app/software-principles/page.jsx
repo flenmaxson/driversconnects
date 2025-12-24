@@ -21,7 +21,7 @@ export default function SoftwarePrinciplesPage() {
     <h1 className="text-3xl font-semibold">Software Principles</h1>
 
     <p>
-      At BDECloud, our software is developed and maintained by Billionaire Dream Estate Private Limited with a strong commitment to transparency, security, performance, and user trust. The following principles define how our software is designed, delivered, and supported.
+      At DriversConnect, our software is developed and maintained by Proprietorship Subhajit Biswas with a strong commitment to transparency, security, performance, and user trust. The following principles define how our software is designed, delivered, and supported.
     </p>
 
     <p>
@@ -32,7 +32,7 @@ export default function SoftwarePrinciplesPage() {
 
     <p>
       Creating dependable software begins with understanding and prioritizing the
-      people who use it. For more than seven years, BDECloud has been dedicated to
+      people who use it. For more than seven years, DriversConnect has been dedicated to
       providing comprehensive PC driver solutions designed to simplify system
       maintenance and enhance performance.
     </p>
@@ -41,14 +41,14 @@ export default function SoftwarePrinciplesPage() {
       Our goal is to ensure a seamless journey for every user—from the initial
       driver download to ongoing system monitoring, customer support, and
       transparent service policies. Whether you are installing drivers for the
-      first time or managing long-term system updates, BDECloud is committed to
+      first time or managing long-term system updates, DriversConnect is committed to
       keeping your computer stable, secure, and up to date.
     </p>
 
     <h2 className="text-2xl font-semibold">Reliable Access to Driver Solutions</h2>
 
     <p>
-      BDECloud delivers fast, secure, and user-friendly access to the latest
+      DriversConnect delivers fast, secure, and user-friendly access to the latest
       Windows driver updates. Fully registered users receive uninterrupted access
       to all software features, including automated updates, intelligent driver
       detection, and real-time monitoring for connected plug-and-play devices.
@@ -58,15 +58,15 @@ export default function SoftwarePrinciplesPage() {
 
     <p>
       Below are the foundational principles that guide the development and
-      operation of BDECloud software. If you need additional information, our
-      support team is available at support@bdecloud.live
+      operation of DriversConnect software. If you need additional information, our
+      support team is available at support@driversconnect.live
       {"\n"}.
     </p>
 
     <h3 className="text-xl font-semibold">Simple and Complete Uninstallation</h3>
 
     <p>
-      We believe users should always remain in control of their systems. BDECloud
+      We believe users should always remain in control of their systems. DriversConnect
       software can be removed easily without disrupting other system functions.
     </p>
 
@@ -85,7 +85,7 @@ export default function SoftwarePrinciplesPage() {
     <h3 className="text-xl font-semibold">Clear and Honest Software Behavior</h3>
 
     <p>
-      Transparency is central to how our software operates. BDECloud clearly
+      Transparency is central to how our software operates. DriversConnect clearly
       explains every action it performs and why it is necessary.
     </p>
 
@@ -121,7 +121,7 @@ export default function SoftwarePrinciplesPage() {
     </h3>
 
     <p>
-      Protecting user privacy is a core priority. BDECloud does not collect
+      Protecting user privacy is a core priority. DriversConnect does not collect
       personal or identifiable user data from your device.
     </p>
 
@@ -133,7 +133,7 @@ export default function SoftwarePrinciplesPage() {
     <p>
       <strong>Purpose of device data collection:</strong>
       <br />
-      Hardware and software inventory information allows BDECloud to provide
+      Hardware and software inventory information allows DriversConnect to provide
       accurate driver recommendations and improve update reliability across all
       supported systems. This process helps standardize updates and maintain
       consistent performance without compromising user privacy.
@@ -144,7 +144,7 @@ export default function SoftwarePrinciplesPage() {
     </h3>
 
     <p>
-      BDECloud values transparency and accountability in all partnerships. We
+      DriversConnect values transparency and accountability in all partnerships. We
       collaborate only with organizations that share our commitment to user
       protection, quality assurance, and ethical software practices.
     </p>

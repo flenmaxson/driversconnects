@@ -21,7 +21,7 @@ export default function RefundPolicyPage() {
     <h1 className="text-3xl font-semibold">Refund Policy</h1>
 
     <p>
-      This Refund Policy applies to purchases made for BDECloud (“Software”, “Service”), owned and operated by Billionaire Dream Estate Private Limited (“Company”, “we”, “us”, “our”).
+      This Refund Policy applies to purchases made for DriversConnect (“Software”, “Service”), owned and operated by Proprietorship Subhajit Biswas (“Company”, “we”, “us”, “our”).
     </p>
 
     <p>
@@ -33,7 +33,7 @@ export default function RefundPolicyPage() {
     </h2>
 
     <p>
-      To help customers make informed purchasing decisions, most BDECloud products
+      To help customers make informed purchasing decisions, most DriversConnect products
       include a 14-day try-before-you-buy money-back guarantee. Trial versions are
       intentionally limited in functionality to allow evaluation while preventing
       incorrect purchases.
@@ -61,12 +61,12 @@ export default function RefundPolicyPage() {
       <li>
         Claims related to unauthorized transactions or credit card fraud. Such
         matters must be resolved directly with the issuing bank or payment provider.
-        BDECloud cannot reverse completed transactions but may assist with product
+        DriversConnect cannot reverse completed transactions but may assist with product
         exchanges. Subscription cancellations are governed by our Terms of Use.
       </li>
       <li>
         Delays in receiving a registration or license code within two hours of
-        purchase. Customers are encouraged to contact BDECloud Support for prompt
+        purchase. Customers are encouraged to contact DriversConnect Support for prompt
         assistance.
       </li>
       <li>
@@ -92,7 +92,7 @@ export default function RefundPolicyPage() {
 
     <ul className="list-disc pl-6 space-y-1">
       <li>
-        The customer refuses to cooperate with BDECloud’s technical support team or
+        The customer refuses to cooperate with DriversConnect’s technical support team or
         fails to provide necessary information required to diagnose or resolve the
         issue.
       </li>
@@ -116,16 +116,16 @@ export default function RefundPolicyPage() {
       <li>
         Accidental purchase of additional services such as Registration Backup
         Service (RBS), Download Insurance Service, or Extended Download Service (EDS)
-        without realizing these services can be canceled. BDECloud will assist in
+        without realizing these services can be canceled. DriversConnect will assist in
         recovering applicable charges through the payment platform.
       </li>
       <li>
         Purchase of an incorrect product followed by purchasing the correct version
-        from BDECloud. The original purchase amount may be refunded.
+        from DriversConnect. The original purchase amount may be refunded.
       </li>
       <li>
         Duplicate purchases or purchase of functionally similar products. One
-        product may be exchanged or refunded at BDECloud’s discretion.
+        product may be exchanged or refunded at DriversConnect’s discretion.
       </li>
       <li>
         Failure to receive a registration code combined with no response from BDE

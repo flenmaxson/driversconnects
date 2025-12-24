@@ -8,6 +8,8 @@ import MainLayout from '@/components/MainLaout'
 import CostumersReview from '@/components/CostumersReview'
 import FAQList from '@/components/FaqList'
 import PricingPackages from '@/components/PricingSection'
+import HowItWorks from '@/components/HowItWorks'
+import Contact from '@/components/Contact'
 
 export default function Home() {
   return (
@@ -29,6 +31,8 @@ export default function Home() {
       {/* Suitable for any computer */}
       <DriverPack/>
       <PricingPackages/>
+      <HowItWorks/>
+      <Contact/>
 
       {/* Contact */}
       <CostumersReview/>

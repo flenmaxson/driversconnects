@@ -31,11 +31,11 @@ export default function Header() {
           : "bg-transparent"
       }`}
     >
-      <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-6 py-2 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-3 group">
           <img 
-            className="h-8 w-20 md:h-10 md:w-20 object-contain"
+            className="h-12 w-30 md:h-10 md:w-50 object-contain"
           src="/logo.png" alt="" />
         </Link>
 

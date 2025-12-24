@@ -5,27 +5,27 @@ import { useState, useRef, useEffect } from "react";
 
 const faqs = [
   {
-    question: "What is BDE Cloud?",
+    question: "What is Drivers Connect?",
     answer:
-      "BDE Cloud is a Windows application that helps to detect, download, and install the latest drivers for their PC. It’s designed to make computer maintenance easier and more reliable.",
+      "Drivers Connect is a Windows application that helps to detect, download, and install the latest drivers for their PC. It’s designed to make computer maintenance easier and more reliable.",
   },
   {
-    question: "How does BDE Cloud help my computer?",
+    question: "How does Drivers Connect help my computer?",
     answer:
-      "By keeping your device drivers up to date, BDE Cloud helps improve system stability and ensures your hardware runs as intended. It simplifies the process of managing driver updates safely.",
+      "By keeping your device drivers up to date, Drivers Connect helps improve system stability and ensures your hardware runs as intended. It simplifies the process of managing driver updates safely.",
   },
   {
-    question: "Is BDE Cloud safe to use?",
+    question: "Is Drivers Connect safe to use?",
     answer:
-      "Yes. BDE Cloud uses secure methods to check for updates and only installs trusted drivers that match your system specifications.",
+      "Yes. Drivers Connect uses secure methods to check for updates and only installs trusted drivers that match your system specifications.",
   },
   {
-    question: "Do I need technical skills to use BDE Cloud?",
+    question: "Do I need technical skills to use Drivers Connect?",
     answer:
-      "No technical experience is needed. BDE Cloud’s step-by-step interface guides you through the update process easily.",
+      "No technical experience is needed. Drivers Connect’s step-by-step interface guides you through the update process easily.",
   },
   {
-    question: "Will BDE Cloud make my computer faster?",
+    question: "Will Drivers Connect make my computer faster?",
     answer:
       "While individual results may vary, updating outdated drivers can help your PC operate more efficiently and reduce potential performance issues.",
   },

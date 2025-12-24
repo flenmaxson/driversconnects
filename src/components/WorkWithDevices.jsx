@@ -6,11 +6,11 @@ function WorkWithDevices() {
     <h2 className="text-2xl md:text-4xl font-extrabold text-center text-[#04121d] leading-snug">
           Seamless Works for All Your Devices with{" "}
           <span className="block text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600">
-            BDE Cloud
+            Drivers Connect
           </span>
         </h2>
     <p className="text-center text-gray-600 mt-4 max-w-2xl mx-auto">
-      BDE Cloud helps keep your PC up to date with smart driver updates, performance optimization, and reliable system maintenance for a smoother experience.
+      Drivers Connect helps keep your PC up to date with smart driver updates, performance optimization, and reliable system maintenance for a smoother experience.
     </p>
 
     <div className="mt-14 grid sm:grid-cols-2 lg:grid-cols-4 gap-8 px-10 md:px-0">
