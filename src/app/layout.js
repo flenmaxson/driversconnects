@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "BDE Cloud | Driver Updates & System Optimization",
+  title: "DriversConnect | Driver Updates & System Optimization",
   description:
-    "Keep your PC running smoothly with BDE Cloud. Update drivers, optimize performance, and improve security for a faster, more reliable experience.",
+    "Keep your PC running smoothly with DriversConnect. Update drivers, optimize performance, and improve security for a faster, more reliable experience.",
 };
 
 
